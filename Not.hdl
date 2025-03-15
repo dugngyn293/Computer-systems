@@ -13,5 +13,5 @@ CHIP Not {
     OUT out;
 
     PARTS:
-     NotGate(in=in, out=out);
+     Nand(a=in, b=in, out=out);
 }
