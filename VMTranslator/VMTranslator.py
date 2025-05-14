@@ -193,4 +193,4 @@ if __name__ == "__main__":
                     elif (tokens[0] == 'function'):
                         print(VMTranslator.vm_function(tokens[1], int(tokens[2])))
                     elif (tokens[0] == 'call'):
-                        print(VMTranslator.vm_call(tokens[1], int(tokens[2])))gi
+                        print(VMTranslator.vm_call(tokens[1], int(tokens[2])))
