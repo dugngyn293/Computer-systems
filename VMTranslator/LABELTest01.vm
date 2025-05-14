@@ -1,0 +1,2 @@
+label THISLABEL
+goto THISLABEL
